@@ -14,14 +14,14 @@ Roblox discontinued Robux-based plugin sales and limited USD transactions to spe
 ## Quick Start
 
 **For Users:**
-```bash
+```
 1. Browse plugins/ directory
 2. Download .rbxm files
 3. Import to Roblox Studio
 ```
 
 **For Developers:**
-```bash
+```
 1. Go to %localappdata% and navigate to the Roblox folder
 2. Find folders with userids as names, go to the one you own paid plugins in
 3. Make sure you have them installed in Roblox Studio or else they won't show up
